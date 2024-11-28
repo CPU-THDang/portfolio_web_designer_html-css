@@ -48,6 +48,11 @@ h1 {
     font-size: 6rem;
 
 }
+@media (max-width: 30rem) {
+    h1 {
+        font-size: 4rem;
+    }
+}
 
 h2 {
     font-size: 4.2rem;
